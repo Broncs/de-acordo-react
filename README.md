@@ -2,6 +2,8 @@
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
+[Live Demo](https://de-acordo-488c05.netlify.app/)
+
 ![](./idea.png);
 
 #### React Icons
